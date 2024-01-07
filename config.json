@@ -2,15 +2,15 @@
   "embed": {
     "title": "testerio",
     "description": "testerio",
-    "url": "https://bluefalconhd.github.io/tatertot",
-    "image": "https://github.com/BlueFalconHD/tatertot/raw/master/assets/logo.png",
+    "url": "https://lightnignmc09.github.io/tatertot",
+    "image": "https://github.com/lightnignmc09/tatertot/raw/master/assets/logo.png",
     "color": "#FFFFFF"
   },
   "page": {
-    "title": "Tatertot Page Title"
+    "title": "amog Page Title"
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
   "delay": 10000,
-  "iframe": "https://google.com"
+  "iframe": "https://youtube.com"
 }
